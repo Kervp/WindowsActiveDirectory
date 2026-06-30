@@ -40,3 +40,9 @@ Troubleshooting Performed:
 
 Outcome:
   The lab successfully demonstrated a small enterprise-style Windows domain environment where domain users could sign into a Windows 11 client, receive Group Policy settings, access a mapped network drive, and be managed through Active Directory.
+
+Screenshots:
+
+This screenshot shows the creation of the group in the domain
+
+!(windows_ADlab/screenshots/group.jpg)
