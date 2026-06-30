@@ -45,4 +45,4 @@ Screenshots:
 
 This screenshot shows the creation of the group in the domain
 
-!(windows_ADlab/screenshots/group.jpg)
+![Group creation](screenshots/group.jpg)
