@@ -1,4 +1,4 @@
-This project documents a Windows 11 and Microsoft 365 deployment lab built in Hyper-V. The lab was used to practice Active Directory administration, Group Policy, domain user management, network file sharing, mapped drives, and help desk troubleshooting.
+This project documents a Windows 11 deployment lab built in Hyper-V. The lab was used to practice Active Directory administration, Group Policy, domain user management, network file sharing, mapped drives, and help desk troubleshooting.
 
  Lab Environment
   - Hyper-V virtualization
