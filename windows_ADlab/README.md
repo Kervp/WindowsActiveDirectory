@@ -39,14 +39,14 @@ Outcome:
 Screenshots:
 
 This is the creation of the group named "KervShareRead":
-![group](screenshots\group.png)
+![group](screenshots/group.png)
 
 This shows the mapped drive,"Kerv Share", being created in the Domains Group policy named "Desktop Policy":
-![mapped drive](screenshots\mapped.png)
+![mapped drive](screenshots/mapped.png)
 
 This demonstrates the creation of a shortcut that opens a file directly on the test users desktop:
-![shortcut](screenshots\shortcut.png)
+![shortcut](screenshots/shortcut.png)
 
 This shows a successful password reset for one of the test users:
-![password reset](screenshots\pass.png)
+![password reset](screenshots/pass.png)
 
