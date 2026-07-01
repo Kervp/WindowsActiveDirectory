@@ -13,17 +13,12 @@ This project documents a Windows 11 and Microsoft 365 deployment lab built in Hy
   - Logged into the domain controller
   - Created domain users in Active Directory
   - Created Organizational Units for users, computers, and groups
-  - Moved domain users and computers into the correct OUs
-  - Created and linked a Group Policy Object
   - Deployed a desktop shortcut using Group Policy Preferences
-  - Created a network shared folder
   - Configured share and NTFS permissions
   - Created a security group for shared folder access
-  - Added users to security groups
   - Mapped a shared drive using Group Policy
   - Configured domain password policy
   - Practiced password reset and account unlock workflows
-  - Troubleshot DNS, SMB, firewall, and Group Policy issues
 
 Skills Demonstrated:
   - Active Directory administration
@@ -43,6 +38,15 @@ Outcome:
 
 Screenshots:
 
-This screenshot shows the creation of the group in the domain
+This is the creation of the group named "KervShareRead":
+![group](group.png)
 
-![Group creation](screenshots/group.jpg)
+This shows the mapped drive,"Kerv Share", being created in the Domains Group policy named "Desktop Policy":
+![mapped drive](mapped.png)
+
+This demonstrates the creation of a shortcut that opens a file directly on the test users desktop:
+![shortcut](shortcut.png)
+
+This shows a successful password reset for one of the test users:
+![password reset](pass.png)
+
